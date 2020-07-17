@@ -1,0 +1,47 @@
+.menu-header {
+    display: block;
+    font-size: 1.7em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-right: 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button {
+    background-color: #A9A9A9;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+.line{
+  border-top: 1px solid #483D8B;
+  	text-align: center;
+}
+
+.footer
+{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0.67em;
+    font-weight: bold;
+    text-align: left;
+}
+
+.text-border {
+    text-align: left;
+    margin-left: 0.99em;
+}
+
+.FoodOrder-header {
+  display: block;
+  font-size: 3em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+}
